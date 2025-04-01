@@ -1,0 +1,14 @@
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: left;
+}
+
+form {
+    margin: 20px 0;
+}
